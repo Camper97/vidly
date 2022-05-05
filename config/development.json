@@ -1,0 +1,7 @@
+{
+    "name":"test app- dev",
+    "mail":{
+        "host": "zanaty@abc.com",
+        "addr": "127.0.0.1"
+    }
+}

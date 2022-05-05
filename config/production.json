@@ -1,0 +1,7 @@
+{
+    "name":"Express app- pro",
+    "mail":{
+        "host": "express@abc.com",
+        "addr": "192.168.1.10"
+    }
+}
