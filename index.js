@@ -26,6 +26,8 @@ app.use('/api/genres',genres);
 
 
 app.listen(port, () => {
+
+  df
   console.log(`listening on port ${port}...`);
   
 });
